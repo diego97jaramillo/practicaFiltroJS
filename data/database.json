@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Ana",
+      "apellido": "Martinez",
+      "email": "ana.m@gmail.com",
+      "password": "5678",
+      "peliculaFavorita": "The Godfather",
+      "id": "2"
+    },
+    {
+      "name": "Luis Hernesto",
+      "apellido": "Gomez",
+      "email": "luis.g@gmail.com",
+      "password": "d987",
+      "peliculaFavorita": "Pulp Fiction",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Maria",
+      "apellido": "Lopez",
+      "email": "maria.l@gmail.com",
+      "password": "d123",
+      "peliculaFavorita": "Inception"
+    },
+    {
+      "id": "5",
+      "name": "Carlos",
+      "apellido": "Sanchez",
+      "email": "carlos.s@gmail.com",
+      "password": "6789",
+      "peliculaFavorita": "The Matrix"
+    },
+    {
+      "id": "388b",
+      "name": "scar",
+      "apellido": "Gomez",
+      "email": "joint@ruiz.com",
+      "password": "159753",
+      "peliculaFavorita": "cars 2"
+    }
+  ]
+}
